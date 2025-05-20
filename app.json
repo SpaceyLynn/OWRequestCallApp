@@ -1,0 +1,14 @@
+{
+  "name": "Request a Call",
+  "descritpion": "Allows visitors to request a call from your team via a simple form.",
+  "text": "Request a call from a Recovery Advocate.",
+  "action": {
+    "label": "Request a Call",
+    "value": "https://www.therecoveryvillage.com/request-a-call/",
+    "type": "app"
+  },
+  "properties": {
+    "zapierWebhookURL": "https://hooks.zapier.com/hooks/catch/13076748/27xxn3o/"
+  },
+  "externalurl": "https://www.therecoveryvillage.com/request-a-call/"
+}
